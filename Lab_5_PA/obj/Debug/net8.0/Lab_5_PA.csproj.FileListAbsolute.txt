@@ -1,0 +1,14 @@
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\bin\Debug\net8.0\Lab_5_PA.exe
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\bin\Debug\net8.0\Lab_5_PA.deps.json
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\bin\Debug\net8.0\Lab_5_PA.runtimeconfig.json
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\bin\Debug\net8.0\Lab_5_PA.dll
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\bin\Debug\net8.0\Lab_5_PA.pdb
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\Lab_5_PA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\Lab_5_PA.AssemblyInfoInputs.cache
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\Lab_5_PA.AssemblyInfo.cs
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\Lab_5_PA.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\Lab_5_PA.dll
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\refint\Lab_5_PA.dll
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\Lab_5_PA.pdb
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\Lab_5_PA.genruntimeconfig.cache
+C:\Users\Eugene\RiderProjects\Lab_5_PA\Lab_5_PA\obj\Debug\net8.0\ref\Lab_5_PA.dll
