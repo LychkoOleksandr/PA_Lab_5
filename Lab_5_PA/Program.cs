@@ -1,4 +1,6 @@
-﻿class Program
+﻿namespace Lab_5_PA;
+
+internal abstract class Program
 {
     private const int PopulationSize = 50;
     private const int MaxGenerations = 100;
